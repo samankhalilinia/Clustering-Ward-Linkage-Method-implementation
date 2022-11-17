@@ -1,2 +1,2 @@
-# Clustering-Ward-Linkage-Method-implementation
+# Agglomertive Hierarchical Clustering using Ward Linkage Method implementation
 Clustering Ward Linkage Method implementation
